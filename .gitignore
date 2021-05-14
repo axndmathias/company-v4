@@ -1,9 +1,2 @@
 gitdoc.md
-
-* git commit -am "add background"
-* git commit -am "add background" -amend
-* git reset --soft HEAD^1
-* git reset --hard HEAD^1
-* git push origin master / origin main
-* git commit -am "fix carousel"
-* git reset --stage index.html
+node_modules
