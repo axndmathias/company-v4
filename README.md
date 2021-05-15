@@ -1,3 +1,3 @@
-# company-v2
+# company-v3
 
-### Como usar __semantic commit__ em um Projeto.
+### Como usar __o github__ em um Projeto.
