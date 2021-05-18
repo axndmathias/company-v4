@@ -1,3 +1,3 @@
-# company-v3
+# company-v4
 
-### Como usar __o github__ em um Projeto.
+### Como usar __o git-flow__ em um Projeto.
